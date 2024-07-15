@@ -5,3 +5,4 @@
 ## Сортировка данных
 
 * [Сортировка пузырьком(bubble sort)](./algorithms/bubble_sort.md)
+* [Сортировка пузырьком(selection sort)](./algorithms/selection_sort.md)
