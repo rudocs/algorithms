@@ -11,4 +11,5 @@
 
 ## Поиск данных
 
-* [Линейный поиск(linear search)](./algorithms/search/liner_search.md)
+* [Линейный поиск(linear search)](./algorithms/search/linear_search.md)
+* [Двоичный(бинарный) поиск(Binary search)](.algorithms/search/binary_search.md)
