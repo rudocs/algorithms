@@ -9,6 +9,7 @@
 * [Сортировка вставками(insertion sort)](./algorithms/sorting/insertion_sort.md)
 * [Сортировка кучей(heap sort)](./algorithms/sorting/heap_sort.md)
 * [Сортировка слиянием(merge sort)](./algorithms/sorting/merge_sort.md)
+* [Быстрая сортировка(quicksort)](./algorithms/sorting/quicksort.md)
 
 ## Поиск данных
 
