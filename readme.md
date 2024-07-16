@@ -10,6 +10,7 @@
 * [Сортировка кучей(heap sort)](./algorithms/sorting/heap_sort.md)
 * [Сортировка слиянием(merge sort)](./algorithms/sorting/merge_sort.md)
 * [Быстрая сортировка(quicksort)](./algorithms/sorting/quicksort.md)
+* [Сортировка Шелла(shellsort)](./algorithms/sorting/shellsort.md)
 
 ## Поиск данных
 
