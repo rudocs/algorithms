@@ -17,3 +17,4 @@
 * [Линейный поиск(linear search)](./algorithms/search/linear_search.md)
 * [Двоичный(бинарный) поиск(Binary search)](./algorithms/search/binary_search.md)
 * [Поиск прыжками(Jump search/Block search)](./algorithms/search/jump_search.md)
+* [Интерполяционный поиск(Interpolation search)](./algorithms/search/interpolation_search.md)
